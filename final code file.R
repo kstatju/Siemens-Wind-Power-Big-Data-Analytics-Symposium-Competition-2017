@@ -104,7 +104,7 @@ unique_visit_start_date = unique(data$visit_start_date)
 length(unique_VisitId)
 length(unique_visit_start_date)
 unique_Code = unique(data$Code)
-length(unique_Code)
+
 
 #############################################
 ## Code for Grouping Error
